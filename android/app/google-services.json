@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296294113229",
+    "project_id": "tugaskakgem4",
+    "storage_bucket": "tugaskakgem4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296294113229:android:03641888923680c4f32e84",
+        "android_client_info": {
+          "package_name": "com.example.prak4_2200016103_abdisetiawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wkzcpQjfvDfHGk3FETgfqVgRHV5lVxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
